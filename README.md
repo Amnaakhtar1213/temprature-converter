@@ -6,7 +6,7 @@ A simple tempraure converter that is built using **HTML**, **CSS** and **javascr
 
 # FEATURE
 
-1. Button that convert temp from "F" to "C"
+1. Button that convert temp from "°F" to "°C"
 2. display result below the button.
 
 # Technology 
