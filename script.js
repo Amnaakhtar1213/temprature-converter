@@ -1,17 +1,17 @@
 
 const textBox = document.getElementById("textBox");
-const tofehrenhite = document.getElementById("tofehrenhite");
-const toCelcius = document.getElementById("toCelcius");
+const tofehrenheit = document.getElementById("tofehrenheit");
+const toCelsius = document.getElementById("toCelsius");
 const result = document.getElementById("result");
 let temp;
 
 function converter() {
 
-     if(tofehrenhite.checked){
+     if(tofehrenheit.checked){
         temp = Number(textBox.value)
         temp = temp * 9 / 5 + 32;
         result.textContent = temp.toFixed(1) + "F"
-} else if(toCelcius.checked){
+} else if(toCelsius.checked){
         temp = Number(textBox.value);
         temp = (temp - 32) * (5/9)
         result.textContent = temp.toFixed(1) + "C"
