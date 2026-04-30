@@ -1,15 +1,15 @@
-## TEMPRATURE CONVERTER
+## TEMPERATURE CONVERTER
 
-A simple tempraure converter that is built using **HTML**, **CSS** and **javascript**. its a program that convert temprature from celsius to fehrenheit by pressing submit button and temprature is shown below the button.i use javascript to built a function that convert temprature from " °F" to " °C" by using formula [temp * 9/5 + 32 ] and [(temp - 32) * (5/9)].In this project i learn IF-ELSE statement.
+A simple temperature converter that is built using **HTML**, **CSS** and **javascript**. its a program that convert temperature from celsius to fahrenheit by pressing submit button and temperature is shown below the button.i use javascript to built a function that convert temperature from " °F" to " °C" by using formula [temp * 9/5 + 32 ] and [(temp - 32) * (5/9)].In this project i learn IF-ELSE statement.
 
 ----
 
-# FEATURE
+## FEATURES
 
 1. Button that convert temp from "°F" to "°C"
 2. display result below the button.
 
-# Technology 
+## Technology 
 
 - **HTML**
 - **CSS**
@@ -18,7 +18,22 @@ A simple tempraure converter that is built using **HTML**, **CSS** and **javascr
 ----
 
 ## How to run 
+---------------------
 
-[clich here to view the repository](https://github.com/Amnaakhtar1213/temprature-converter.git)
+## SCREENSHOTS 🖼️ 
+
+Here's what the APP look like:
+
+[Temp-Conv SCREENSHOT](SS.png)
+
+------------------------
+
+## LIVE DEMO 🌐
+
+[click here for live demo](https://amnaakhtar1213.github.io/temprature-converter/)
+
+-----------------------------
+
+## Clone this Repository
 ```bash
 git clone(https://github.com/Amnaakhtar1213/temprature-converter.git)

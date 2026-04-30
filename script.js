@@ -1,13 +1,13 @@
 
 const textBox = document.getElementById("textBox");
-const tofehrenheit = document.getElementById("tofehrenheit");
+const toFahrenheit = document.getElementById("toFahrenheit");
 const toCelsius = document.getElementById("toCelsius");
 const result = document.getElementById("result");
 let temp;
 
 function converter() {
 
-     if(tofehrenheit.checked){
+     if(toFahrenheit.checked){
         temp = Number(textBox.value)
         temp = temp * 9 / 5 + 32;
         result.textContent = temp.toFixed(1) + " °F"
