@@ -36,4 +36,4 @@ Here's what the APP look like:
 
 ## Clone this Repository
 ```bash
-git clone(https://github.com/Amnaakhtar1213/temprature-converter.git)
+git clone (https://github.com/Amnaakhtar1213/temprature-converter.git)
